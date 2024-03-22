@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "65fdd6d544a9908c2e94f037"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 180,
+  "genres": [
+    "Fiction",
+    "Classic"
+  ],
+  "publisher": "Scribner",
+  "publication_year": 1925,
+  "ISBN": "9780743273565",
+  "language": "English",
+  "rating": 4.2,
+  "price": 12.99,
+  "stock_quantity": 50
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f039"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 180,
+  "genres": [
+    "Fiction",
+    "Classic"
+  ],
+  "publisher": "Scribner",
+  "publication_year": 1925,
+  "ISBN": "9780743273565",
+  "language": "English",
+  "rating": 4.2,
+  "price": 12.99,
+  "stock_quantity": 50
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03a"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "pages": 281,
+  "genres": [
+    "Fiction",
+    "Classic"
+  ],
+  "publisher": "J.B. Lippincott & Co.",
+  "publication_year": 1960,
+  "ISBN": "9780061120084",
+  "language": "English",
+  "rating": 4.5,
+  "price": 10.99,
+  "stock_quantity": 45
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03b"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "genres": [
+    "Fiction",
+    "Dystopian"
+  ],
+  "publisher": "Secker & Warburg",
+  "publication_year": 1949,
+  "ISBN": "9780451524935",
+  "language": "English",
+  "rating": 4.6,
+  "price": 9.99,
+  "stock_quantity": 55
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03c"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "pages": 279,
+  "genres": [
+    "Fiction",
+    "Romance",
+    "Classic"
+  ],
+  "publisher": "T. Egerton, Whitehall",
+  "publication_year": 1813,
+  "ISBN": "9780486284736",
+  "language": "English",
+  "rating": 4.4,
+  "price": 8.99,
+  "stock_quantity": 60
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03d"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "pages": 310,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Classic"
+  ],
+  "publisher": "George Allen & Unwin",
+  "publication_year": 1937,
+  "ISBN": "9780345339683",
+  "language": "English",
+  "rating": 4.7,
+  "price": 11.99,
+  "stock_quantity": 40
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03e"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "pages": 309,
+  "genres": [
+    "Fantasy",
+    "Young Adult"
+  ],
+  "publisher": "Bloomsbury",
+  "publication_year": 1997,
+  "ISBN": "9780590353403",
+  "language": "English",
+  "rating": 4.8,
+  "price": 14.99,
+  "stock_quantity": 65
+},
+{
+  "_id": {
+    "$oid": "65fdd77a44a9908c2e94f03f"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "pages": 224,
+  "genres": [
+    "Fiction",
+    "Coming-of-Age"
+  ],
+  "publisher": "Little, Brown and Company",
+  "publication_year": 1951,
+  "ISBN": "9780316769488",
+  "language": "English",
+  "rating": 4.1,
+  "price": 9.49,
+  "stock_quantity": 55
+},
+{
+  "_id": {
+    "$oid": "65fde5c1ff4072f42219b28a"
+  },
+  "title": "The colour of magic",
+  "author": "Aaditya Kasbekar",
+  "pages": 766,
+  "genres": [
+    "Fiction",
+    "Romance",
+    "Drama"
+  ],
+  "publisher": "Oxford",
+  "publication_year": 1880,
+  "language": "Hindi",
+  "rating": 5,
+  "price": 0,
+  "stock_quantity": 500,
+  "ISBN": "9780141187761"
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b28b"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "author": "J.R.R. Tolkien",
+  "pages": 423,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Classic"
+  ],
+  "publisher": "George Allen & Unwin",
+  "publication_year": 1954,
+  "ISBN": "9780547928210",
+  "language": "English",
+  "rating": 4.6,
+  "price": 15.99,
+  "stock_quantity": 30
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b28c"
+  },
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "pages": 454,
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "publisher": "Doubleday",
+  "publication_year": 2003,
+  "ISBN": "9780307474278",
+  "language": "English",
+  "rating": 4,
+  "price": 13.49,
+  "stock_quantity": 25
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b28d"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "pages": 197,
+  "genres": [
+    "Fiction",
+    "Philosophy"
+  ],
+  "publisher": "HarperCollins",
+  "publication_year": 1988,
+  "ISBN": "9780061122415",
+  "language": "English",
+  "rating": 4.3,
+  "price": 10.99,
+  "stock_quantity": 40
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b28e"
+  },
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "pages": 374,
+  "genres": [
+    "Science Fiction",
+    "Dystopian",
+    "Young Adult"
+  ],
+  "publisher": "Scholastic Press",
+  "publication_year": 2008,
+  "ISBN": "9780439023481",
+  "language": "English",
+  "rating": 4.2,
+  "price": 12.79,
+  "stock_quantity": 35
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b28f"
+  },
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "pages": 590,
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "publisher": "Norstedts Förlag",
+  "publication_year": 2005,
+  "ISBN": "9780307269751",
+  "language": "English",
+  "rating": 4.1,
+  "price": 11.99,
+  "stock_quantity": 20
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b290"
+  },
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "pages": 287,
+  "genres": [
+    "Fiction",
+    "Post-Apocalyptic"
+  ],
+  "publisher": "Alfred A. Knopf",
+  "publication_year": 2006,
+  "ISBN": "9780307387899",
+  "language": "English",
+  "rating": 4,
+  "price": 9.99,
+  "stock_quantity": 30
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b291"
+  },
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "author": "C.S. Lewis",
+  "pages": 206,
+  "genres": [
+    "Fantasy",
+    "Children's Literature"
+  ],
+  "publisher": "Geoffrey Bles",
+  "publication_year": 1950,
+  "ISBN": "9780064404990",
+  "language": "English",
+  "rating": 4.5,
+  "price": 8.99,
+  "stock_quantity": 45
+},
+{
+  "_id": {
+    "$oid": "65fde6e2ff4072f42219b292"
+  },
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "pages": 415,
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "publisher": "Crown Publishing Group",
+  "publication_year": 2012,
+  "ISBN": "9780307588364",
+  "language": "English",
+  "rating": 4,
+  "price": 14.49,
+  "stock_quantity": 25
+}]
