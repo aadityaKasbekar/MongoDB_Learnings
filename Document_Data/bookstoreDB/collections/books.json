@@ -19,25 +19,6 @@
 },
 {
   "_id": {
-    "$oid": "65fdd77a44a9908c2e94f039"
-  },
-  "title": "The Great Gatsby",
-  "author": "F. Scott Fitzgerald",
-  "pages": 180,
-  "genres": [
-    "Fiction",
-    "Classic"
-  ],
-  "publisher": "Scribner",
-  "publication_year": 1925,
-  "ISBN": "9780743273565",
-  "language": "English",
-  "rating": 4.2,
-  "price": 12.99,
-  "stock_quantity": 50
-},
-{
-  "_id": {
     "$oid": "65fdd77a44a9908c2e94f03a"
   },
   "title": "To Kill a Mockingbird",
@@ -156,7 +137,7 @@
   "_id": {
     "$oid": "65fde5c1ff4072f42219b28a"
   },
-  "title": "The colour of magic",
+  "title": "The Colour of magic",
   "author": "Aaditya Kasbekar",
   "pages": 766,
   "genres": [

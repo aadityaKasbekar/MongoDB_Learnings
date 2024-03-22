@@ -1,0 +1,471 @@
+[{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a364"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 180,
+  "genres": [
+    "Fiction",
+    "Classic"
+  ],
+  "publisher": "Scribner",
+  "publication_year": 1925,
+  "ISBN": "9780743273565",
+  "language": "English",
+  "rating": 4.2,
+  "price": 12.99,
+  "stock_quantity": 50,
+  "reviews": [
+    {
+      "reviewTitle": "A Classic Masterpiece",
+      "reviewBody": "The Great Gatsby is a timeless classic that delves into the intricacies of wealth, love, and the American Dream. Fitzgerald's prose is captivating, and his characters are deeply layered. A must-read for anyone interested in literature."
+    },
+    {
+      "reviewTitle": "Captivating Storytelling",
+      "reviewBody": "Fitzgerald's narrative draws you in from the first page to the last. The characters feel real, and the themes are relevant even today. A brilliant novel that deserves all the praise it receives."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a365"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "pages": 281,
+  "genres": [
+    "Fiction",
+    "Classic"
+  ],
+  "publisher": "J.B. Lippincott & Co.",
+  "publication_year": 1960,
+  "ISBN": "9780061120084",
+  "language": "English",
+  "rating": 4.5,
+  "price": 10.99,
+  "stock_quantity": 45,
+  "reviews": [
+    {
+      "reviewTitle": "A Timeless Masterpiece",
+      "reviewBody": "To Kill a Mockingbird is a powerful exploration of racial injustice and moral growth. Harper Lee's storytelling is masterful, and the characters are unforgettable. This book is a must-read for all."
+    },
+    {
+      "reviewTitle": "Impactful and Thought-Provoking",
+      "reviewBody": "This book leaves a lasting impression on the reader. It challenges societal norms and encourages empathy and understanding. Harper Lee's prose is beautiful and evocative. Highly recommended."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a366"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "genres": [
+    "Fiction",
+    "Dystopian"
+  ],
+  "publisher": "Secker & Warburg",
+  "publication_year": 1949,
+  "ISBN": "9780451524935",
+  "language": "English",
+  "rating": 4.6,
+  "price": 9.99,
+  "stock_quantity": 55,
+  "reviews": [
+    {
+      "reviewTitle": "A Haunting Dystopian Vision",
+      "reviewBody": "1984 is a chilling portrayal of a totalitarian regime and the power of surveillance. Orwell's writing is both prophetic and timeless, serving as a warning against the dangers of authoritarianism."
+    },
+    {
+      "reviewTitle": "Thought-Provoking and Relevant",
+      "reviewBody": "This book offers profound insights into the nature of power and control. Orwell's depiction of a dystopian society is both terrifying and thought-provoking, prompting readers to reflect on the importance of freedom and individuality."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a367"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "pages": 279,
+  "genres": [
+    "Fiction",
+    "Romance",
+    "Classic"
+  ],
+  "publisher": "T. Egerton, Whitehall",
+  "publication_year": 1813,
+  "ISBN": "9780486284736",
+  "language": "English",
+  "rating": 4.4,
+  "price": 8.99,
+  "stock_quantity": 60,
+  "reviews": [
+    {
+      "reviewTitle": "A Timeless Romance",
+      "reviewBody": "Pride and Prejudice is a classic tale of love, wit, and societal expectations. Jane Austen's characters are charming, and her wit is unparalleled. This book remains a favorite for readers of all ages."
+    },
+    {
+      "reviewTitle": "Delightful and Engaging",
+      "reviewBody": "Austen's prose is exquisite, and her characters leap off the page. The story of Elizabeth Bennet and Mr. Darcy is one that never gets old. A must-read for anyone who enjoys romance and wit."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a368"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "pages": 310,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Classic"
+  ],
+  "publisher": "George Allen & Unwin",
+  "publication_year": 1937,
+  "ISBN": "9780345339683",
+  "language": "English",
+  "rating": 4.7,
+  "price": 11.99,
+  "stock_quantity": 40,
+  "reviews": [
+    {
+      "reviewTitle": "A Timeless Adventure",
+      "reviewBody": "The Hobbit is a delightful adventure filled with magic, dragons, and heroic deeds. Tolkien's world-building is unparalleled, and his characters are unforgettable. A must-read for fantasy lovers of all ages."
+    },
+    {
+      "reviewTitle": "Enchanting and Imaginative",
+      "reviewBody": "Tolkien's storytelling transports you to a world of wonder and magic. The journey of Bilbo Baggins is filled with excitement and danger, making it a thrilling read from start to finish."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdfe9e308f275db8d9a369"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "pages": 309,
+  "genres": [
+    "Fantasy",
+    "Young Adult"
+  ],
+  "publisher": "Bloomsbury",
+  "publication_year": 1997,
+  "ISBN": "9780590353403",
+  "language": "English",
+  "rating": 4.8,
+  "price": 14.99,
+  "stock_quantity": 65,
+  "reviews": [
+    {
+      "reviewTitle": "Magical and Enthralling",
+      "reviewBody": "Harry Potter and the Sorcerer's Stone is the beginning of a magical journey that captivates readers of all ages. Rowling's world-building is superb, and her characters are richly developed. A must-read for fantasy fans."
+    },
+    {
+      "reviewTitle": "A Captivating Debut",
+      "reviewBody": "Rowling's debut novel is a triumph of imagination and storytelling. The magical world of Hogwarts comes alive on the page, and readers will find themselves immersed in Harry's adventures from start to finish."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdff3b308f275db8d9a36b"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "pages": 224,
+  "genres": [
+    "Fiction",
+    "Coming-of-Age"
+  ],
+  "publisher": "Little, Brown and Company",
+  "publication_year": 1951,
+  "ISBN": "9780316769488",
+  "language": "English",
+  "rating": 4.1,
+  "price": 9.49,
+  "stock_quantity": 55,
+  "reviews": [
+    {
+      "reviewTitle": "A Classic of Adolescent Angst",
+      "reviewBody": "The Catcher in the Rye is a timeless exploration of teenage rebellion and alienation. Salinger's protagonist, Holden Caulfield, remains one of literature's most iconic characters. This book captures the essence of youth like no other."
+    },
+    {
+      "reviewTitle": "Profound and Thought-Provoking",
+      "reviewBody": "Salinger's masterpiece offers a poignant glimpse into the mind of a troubled teenager. The themes of identity, belonging, and the loss of innocence resonate deeply with readers of all ages. A must-read for anyone navigating the complexities of adolescence."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdff3b308f275db8d9a36c"
+  },
+  "title": "The Colour of magic",
+  "author": "Aaditya Kasbekar",
+  "pages": 766,
+  "genres": [
+    "Fiction",
+    "Romance",
+    "Drama"
+  ],
+  "publisher": "Oxford",
+  "publication_year": 1880,
+  "language": "Hindi",
+  "rating": 5,
+  "price": 0,
+  "stock_quantity": 500,
+  "ISBN": "9780141187761",
+  "reviews": [
+    {
+      "reviewTitle": "A Captivating Tale",
+      "reviewBody": "The Colour of Magic is a captivating blend of romance and drama set against the backdrop of Indian society. Aaditya Kasbekar's storytelling is immersive, and his characters are deeply compelling. A must-read for fans of Indian literature."
+    },
+    {
+      "reviewTitle": "Brilliant and Engaging",
+      "reviewBody": "Kasbekar's novel is a brilliant exploration of love, sacrifice, and the human spirit. The vivid imagery and rich cultural details transport the reader to another world. An engaging read that lingers in the mind long after the final page."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdff8d308f275db8d9a36e"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "author": "J.R.R. Tolkien",
+  "pages": 423,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Classic"
+  ],
+  "publisher": "George Allen & Unwin",
+  "publication_year": 1954,
+  "ISBN": "9780547928210",
+  "language": "English",
+  "rating": 4.6,
+  "price": 15.99,
+  "stock_quantity": 30,
+  "reviews": [
+    {
+      "reviewTitle": "Epic Journey into Middle-earth",
+      "reviewBody": "Tolkien's masterpiece is a timeless epic that takes readers on a journey through the richly imagined world of Middle-earth. The Fellowship of the Ring sets the stage for a thrilling adventure filled with memorable characters, epic battles, and profound themes."
+    },
+    {
+      "reviewTitle": "A Classic of Fantasy Literature",
+      "reviewBody": "The Lord of the Rings is a classic of fantasy literature that continues to captivate readers with its intricate world-building, compelling storytelling, and timeless themes of friendship, courage, and sacrifice."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdff8d308f275db8d9a36f"
+  },
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "pages": 454,
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "publisher": "Doubleday",
+  "publication_year": 2003,
+  "ISBN": "9780307474278",
+  "language": "English",
+  "rating": 4,
+  "price": 13.49,
+  "stock_quantity": 25,
+  "reviews": [
+    {
+      "reviewTitle": "Riveting Page-Turner",
+      "reviewBody": "Dan Brown's The Da Vinci Code is a gripping thriller that keeps readers on the edge of their seats from start to finish. With its fast-paced plot, intricate puzzles, and unexpected twists, it's no wonder this book became a global sensation."
+    },
+    {
+      "reviewTitle": "Controversial and Thought-Provoking",
+      "reviewBody": "The Da Vinci Code challenges readers to question long-held beliefs and explore hidden truths. Whether you agree with its theories or not, there's no denying the book's impact on popular culture and its ability to spark lively debate."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdffd3308f275db8d9a371"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "pages": 197,
+  "genres": [
+    "Fiction",
+    "Philosophy"
+  ],
+  "publisher": "HarperCollins",
+  "publication_year": 1988,
+  "ISBN": "9780061122415",
+  "language": "English",
+  "rating": 4.3,
+  "price": 10.99,
+  "stock_quantity": 40,
+  "reviews": [
+    {
+      "reviewTitle": "A Journey of Self-Discovery",
+      "reviewBody": "The Alchemist is a profound and inspiring tale that explores the journey of self-discovery and the pursuit of one's dreams. Paulo Coelho's writing is both lyrical and thought-provoking, leaving readers with timeless wisdom and insights into the human condition."
+    },
+    {
+      "reviewTitle": "Empowering and Uplifting",
+      "reviewBody": "The Alchemist is a book that speaks to the soul, urging readers to listen to their hearts and follow their dreams. It's a reminder that the universe conspires to help those who dare to pursue their dreams, and that true fulfillment comes from within."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fdffd3308f275db8d9a372"
+  },
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "pages": 374,
+  "genres": [
+    "Science Fiction",
+    "Dystopian",
+    "Young Adult"
+  ],
+  "publisher": "Scholastic Press",
+  "publication_year": 2008,
+  "ISBN": "9780439023481",
+  "language": "English",
+  "rating": 4.2,
+  "price": 12.79,
+  "stock_quantity": 35,
+  "reviews": [
+    {
+      "reviewTitle": "Thrilling and Suspenseful",
+      "reviewBody": "The Hunger Games is a gripping dystopian novel that keeps readers on the edge of their seats with its action-packed plot and compelling characters. Suzanne Collins creates a vivid and immersive world that explores themes of power, survival, and the human spirit."
+    },
+    {
+      "reviewTitle": "Thought-Provoking Social Commentary",
+      "reviewBody": "The Hunger Games offers a powerful commentary on society, politics, and the consequences of unchecked power. Through the lens of a dystopian future, Collins raises important questions about inequality, justice, and the ethics of survival."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fe0016308f275db8d9a374"
+  },
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "pages": 590,
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "publisher": "Norstedts Förlag",
+  "publication_year": 2005,
+  "ISBN": "9780307269751",
+  "language": "English",
+  "rating": 4.1,
+  "price": 11.99,
+  "stock_quantity": 20,
+  "reviews": [
+    {
+      "reviewTitle": "Captivating and Intriguing",
+      "reviewBody": "The Girl with the Dragon Tattoo is a gripping thriller that keeps readers hooked from start to finish. Stieg Larsson's intricate plot, complex characters, and atmospheric setting make for an unforgettable reading experience."
+    },
+    {
+      "reviewTitle": "A Masterpiece of Suspense",
+      "reviewBody": "Stieg Larsson weaves together a web of mystery and intrigue in The Girl with the Dragon Tattoo. With its unexpected twists and turns, this book will keep you guessing until the very end."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fe0016308f275db8d9a375"
+  },
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "pages": 287,
+  "genres": [
+    "Fiction",
+    "Post-Apocalyptic"
+  ],
+  "publisher": "Alfred A. Knopf",
+  "publication_year": 2006,
+  "ISBN": "9780307387899",
+  "language": "English",
+  "rating": 4,
+  "price": 9.99,
+  "stock_quantity": 30,
+  "reviews": [
+    {
+      "reviewTitle": "Haunting and Poignant",
+      "reviewBody": "The Road is a haunting and deeply moving exploration of survival and humanity in a post-apocalyptic world. Cormac McCarthy's spare prose and stark imagery paint a vivid picture of a desolate landscape and the bond between father and son."
+    },
+    {
+      "reviewTitle": "An Unforgettable Journey",
+      "reviewBody": "Cormac McCarthy's The Road is a masterpiece of modern literature, a stark and unflinching portrayal of the human spirit in the face of unimaginable adversity. Its powerful themes of love, loss, and hope will stay with readers long after they turn the final page."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fe0069308f275db8d9a377"
+  },
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "author": "C.S. Lewis",
+  "pages": 206,
+  "genres": [
+    "Fantasy",
+    "Children's Literature"
+  ],
+  "publisher": "Geoffrey Bles",
+  "publication_year": 1950,
+  "ISBN": "9780064404990",
+  "language": "English",
+  "rating": 4.5,
+  "price": 8.99,
+  "stock_quantity": 45,
+  "reviews": [
+    {
+      "reviewTitle": "A Timeless Classic",
+      "reviewBody": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a timeless classic that continues to captivate readers of all ages. C.S. Lewis's imaginative storytelling and vivid characters make this a must-read for fantasy lovers."
+    },
+    {
+      "reviewTitle": "Magical and Enchanting",
+      "reviewBody": "Step through the wardrobe into the magical world of Narnia! C.S. Lewis's masterful storytelling and richly imagined world make The Lion, the Witch and the Wardrobe a truly enchanting read. Perfect for readers young and old."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fe0069308f275db8d9a378"
+  },
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "pages": 415,
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "publisher": "Crown Publishing Group",
+  "publication_year": 2012,
+  "ISBN": "9780307588364",
+  "language": "English",
+  "rating": 4,
+  "price": 14.49,
+  "stock_quantity": 25,
+  "reviews": [
+    {
+      "reviewTitle": "A Gripping Psychological Thriller",
+      "reviewBody": "Gone Girl is a gripping psychological thriller that will keep you guessing until the very end. Gillian Flynn's sharp writing and intricate plot twists make this a must-read for fans of the genre."
+    },
+    {
+      "reviewTitle": "Twists and Turns Galore",
+      "reviewBody": "Prepare to be captivated by Gone Girl's twists and turns! Gillian Flynn's expertly crafted narrative keeps readers on the edge of their seats, unraveling the mystery of Amy and Nick's marriage with each page."
+    }
+  ]
+}]
